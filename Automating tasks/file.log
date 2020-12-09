@@ -1,0 +1,8 @@
+2020-12-09 22:51:54,194 root INFO dividing 5 betwen 0 
+2020-12-09 22:51:54,194 root ERROR error task runing
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\automation\Automating tasks\task2_captError.py", line 26, in <module>
+    main(args.n1,args.n2,args.output)
+  File "C:\Users\user\Desktop\automation\Automating tasks\task2_captError.py", line 8, in main
+    result = number / other_number
+ZeroDivisionError: division by zero
