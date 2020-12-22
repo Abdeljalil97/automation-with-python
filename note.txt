@@ -1,0 +1,2 @@
+the ressources library for strings:
+    https://pyformat.info/
